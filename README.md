@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Rothko Painting](https://dracula27.github.io/freeCodeCamp_responsiveWebDesign_nutritionLabel/)
+[Nutrition Label](https://dracula27.github.io/freeCodeCamp_responsiveWebDesign_nutritionLabel/)
 
 ## Project Information
 
